@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "1.0.0",
-  "description": "Responsive Portfolio Website",
+  "description": "Portfolio Website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
@@ -12,15 +12,15 @@
     "@fortawesome/fontawesome-free": "^5.15.2",
     "gh-pages": "^3.1.0",
     "heroku": "^7.47.12",
-    "node-sass": "^5.0.0"
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.8"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolenand/Responsive-Portfolio-Website.git"
+    "url": "git+https://dolenand.github.io/Portfolio-Website-dolenand.git"
   },
   "bugs": {
-    "url": "https://github.com/dolenand/Responsive-Portfolio-Website/issues"
+    "url": "https://dolenand.github.io/Portfolio-Website-dolenand/issues"
   },
-  "homepage": "https://dolenand.github.io/Responsive-Portfolio-Website/"
+  "homepage": "https://dolenand.github.io/Portfolio-Website-dolenand/"
 }
