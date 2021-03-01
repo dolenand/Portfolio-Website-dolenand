@@ -1,6 +1,14 @@
- Responsive Portfolio Website
+#Responsive Portfolio Website
 
 *Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks*
+
+## Updated GitHub Profile
+
+[=>>ANDY'S GITHUB](https://github.com/dolenand)
+## Link to Deployed Site
+[Welcome to Andy's Portfolio](https://dolenand.github.io/Portfolio-Website-dolenand/)
+
+<br>
 
 Your updated portfolio should:
 
@@ -39,11 +47,8 @@ Your updated portfolio should:
 
 
 >11. Updated LinkedIn profile
+
 ## Design
-
-Your site should look
-"polished." Here are a few guidelines on what that means:
-
 
 >Mobile-first design
 
@@ -54,10 +59,7 @@ the default bootstrap theme or an unstyled HTML site.
 
 >Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
+# Deployed Site Demo
 
-## Updated GitHub Profile
-
-[=>>ANDY'S GITHUB](https://github.com/dolenand)
-## Link to Deployed Site
-[Welcome to Andy's Portfolio](https://github.com/dolenand)
-
+## Refer to this repo for complete commit history
+(https://github.com/dolenand/Responsive-Portfolio-Website-In-Prog)

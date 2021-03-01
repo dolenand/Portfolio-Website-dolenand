@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "CLI application for generating project read.me files",
   "main": "index.js",
+  "homepage": "https://dolenand.github.io/Portfolio-Website-dolenand/",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  
+  "author": "Andy Dolen",
+  "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "node-sass": "^5.0.0",
@@ -11,19 +21,14 @@
   "devDependencies": {
     "gh-pages": "^3.1.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
-  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dolenand/Portfolio-Website-dolenand.git"
   },
-  "author": "Andy Dolen",
-  "license": "ISC",
+  
   "bugs": {
     "url": "https://github.com/dolenand/Portfolio-Website-dolenand/issues"
-  },
-  "homepage": "https://dolenand.github.io/Portfolio-Website-dolenand/"
+  }
+  
 }
