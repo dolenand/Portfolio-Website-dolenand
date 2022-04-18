@@ -86,10 +86,7 @@ main {
     grid-template-columns: repeat(3, 1fr);
 
     .bio-image {
-        grid-area: auto;
-        grid-area: auto / auto;
-        grid-area: auto / auto / auto;
-        grid-area: auto / auto / auto / auto;
+        grid-area: bioimage;
         margin: auto;
         border-radius: 50%;
         border: $secondary-color 3px solid;
